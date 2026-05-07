@@ -1,0 +1,3 @@
+model_path: asset/weights/classify/best.pt
+imgsz: 640    # inference resolution
+conf: 0.40    # minimum confidence; below this → "unclassified"

@@ -1,0 +1,4 @@
+model_path: asset/weights/roi/best.pt
+imgsz: 640         # inference resolution
+conf: 0.25         # detection confidence threshold
+target_size: 1280  # letterbox output size (pixels)
